@@ -1,0 +1,7 @@
+{
+    "semi": true,
+    "trailingComma": "es5",
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": true,
+    "prettier.tslintIntegration": true
+}
