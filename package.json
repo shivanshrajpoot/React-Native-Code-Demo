@@ -11,6 +11,7 @@
     "native-base": "^2.13.4",
     "react": "16.8.6",
     "react-native": "0.60.4",
+    "react-native-snap-carousel": "^3.8.0",
     "react-native-svg": "^9.6.2"
   },
   "devDependencies": {
